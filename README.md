@@ -17,7 +17,7 @@
 
 <h2>📺 My YouTube Channel:</h2>
 
-- [@TechDeficient]([https://www.youtube.com/channel/UC_5I2FQ3UXGAFkb44uWzDiw](https://www.youtube.com/@TechDeficient))
+- [@TechDeficient](https://www.youtube.com/@TechDeficient)
 
 <!--
 <h2> 🤳 Connect with me:</h2>
