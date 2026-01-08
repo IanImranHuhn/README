@@ -5,6 +5,13 @@
 - <b>Cybersecurity</b>
   - [Vulnerability Management](https://github.com/IanImranHuhn/Vulnerability-Management-Program)
   - [DISA STIGs](https://github.com/IanImranHuhn/DISA-STIGs)
+- <b>Cloud</b>
+  - [Azure Introduction](https://github.com/IanImranHuhn/AzureIntro)
+  - [Azure Bill Alarm](https://github.com/IanImranHuhn/AzureBillAlarm)
+  - [Azure Users](https://github.com/IanImranHuhn/AzureUsers)
+  - [Azure Resource Group IAM](https://github.com/IanImranHuhn/AzureRGIAM)
+  - [Azure IAM Role](https://github.com/IanImranHuhn/AzureIAMrole)
+  - [Azure IAM Password Reset](https://github.com/IanImranHuhn/AzureIAMPW)
  
 <h2>📜 Degrees & Certifications:</h2>
 
