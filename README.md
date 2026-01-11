@@ -5,7 +5,7 @@
 - <b>Cybersecurity</b>
   - [Threat Hunt : Tor](https://github.com/IanImranHuhn/Threat-Hunting-Tor)
   - [Vulnerability Management Program](https://github.com/IanImranHuhn/Vulnerability-Management-Program)
-  - [DISA STIGs](https://github.com/IanImranHuhn/DISA-STIGs)
+  - [DISA STIGs : Windows 11](https://github.com/IanImranHuhn/DISA-STIGs)
 - <b>Cloud</b>
   - [Azure Introduction](https://github.com/IanImranHuhn/AzureIntro)
   - [Azure Bill Alarm](https://github.com/IanImranHuhn/AzureBillAlarm)
